@@ -1,0 +1,2 @@
+splash_screen_enable = 0
+colur_theme = #26f23e
